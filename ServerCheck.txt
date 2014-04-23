@@ -1,0 +1,23 @@
+Check
+Table 11
+
+
+Vitanyanzhela pizzeria
+
+
+Гавайська        30.0
+чізкейк        20.0
+шоко фантазія        15.0
+Гавайська        30.0
+Мрія лижника        30.0
+Цезарь        40.0
+
+
+
+____________
+total amount165.0
+please, pay your server
+7% - 11.55
+10% - 16.5
+Please, come again!
+---------Thank you!---------
